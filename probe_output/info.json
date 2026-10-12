@@ -1,0 +1,5 @@
+{
+  "requested_url": "https://fin.land.naver.com/map?layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAjAAYAbAFYRAgL7UmWeggAWABXqMWscKQBGcMPSIQE2Krrr7DWACoNCFgJ5osasAEE%2BYCRIC6QA",
+  "error": "Page.goto: net::ERR_CONNECTION_RESET at https://fin.land.naver.com/map?layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAjAAYAbAFYRAgL7UmWeggAWABXqMWscKQBGcMPSIQE2Krrr7DWACoNCFgJ5osasAEE%2BYCRIC6QA\nCall log:\n  - navigating to \"https://fin.land.naver.com/map?layer=NobwRAlgJmBcYGMD2BbADgGwKYA8D6UWALgIYQZgA0YaJATiSgM5zjLrY4CSMsAjAAYAbAFYRAgL7UmWeggAWABXqMWscKQBGcMPSIQE2Krrr7DWACoNCFgJ5osasAEE%2BYCRIC6QA\", waiting until \"domcontentloaded\"\n",
+  "captured_count": 0
+}
